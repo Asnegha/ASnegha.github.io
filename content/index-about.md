@@ -1,2 +1,2 @@
-I am a second year **Masters by Research** student in [**Centre for Machine Intelligence and Data Science**](https://www.minds.iitb.ac.in/) at [**IIT Bombay**](https://www.iitb.ac.in/). 
-Guided by [**Prof.Preethi Jyothi**](https://www.cse.iitb.ac.in/~pjyothi/) focusing on NLP. In my research I primarily focus on **Cross Lingual Transfer**. 
+I am a second-year Masters by Research student at the [**Centre for Machine Intelligence and Data Science**](https://www.minds.iitb.ac.in/),  **IIT Bombay**,  under the guidance of [**Prof.Preethi Jyothi**](https://www.cse.iitb.ac.in/~pjyothi/). 
+My research primarily focuses on Natural Language Processing (NLP), with a specialization in **Cross-Lingual Transfer**.
