@@ -2,14 +2,37 @@
 
 ## Hi there! 👋
 
-Hey, I'm Maverick - a minimal template. Maverick is a minimal Hugo blog theme base on Listed by Ronalds Vilciņš.
+I am a second-year Masters by Research student at the [Centre for Machine Intelligence and Data Science](https://www.minds.iitb.ac.in/), IIT Bombay, under the guidance of [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/). My research primarily focuses on Natural Language Processing (NLP), with a specialization in **Cross-Lingual Transfer**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet consectetur adipiscing elit ut aliquam purus. Massa tempor nec feugiat nisl pretium fusce id velit. Morbi quis commodo odio aenean sed adipiscing. Senectus et netus et malesuada fames ac. Tortor condimentum lacinia quis vel eros donec ac odio. Risus in hendrerit gravida rutrum quisque. Posuere ac ut consequat semper. Sodales ut etiam sit amet
+### 🎓 Education
 
-- 📺 Demo: https://maverick.canhtran.me
-- ❤️ Github: https://github.com/canhtran/maverick
+* MS by Research — <span style="color:#1E90FF;">Centre for Machine Intelligence and Data Science</span>  
+<span style="color:#276749;">Indian Institute of Technology, Bombay</span>  
+📍 2023 – Present  
+CGPA: `9.43 / 10`
 
-[<img src="https://images.squarespace-cdn.com/content/v1/5cf6ec742e677c000119beb3/1559871045027-2XSVXYWSZD9POBO0QOVD/buy-me-a-coffee-button.png" width="100"/>](https://www.buymeacoffee.com/canh)
+* Bachelor of Technology — <span style="color:#1E90FF;">Electrical Engineering</span>  
+<span style="color:#276749;">Indian Institute of Technology, Tirupati</span>  
+📍 2018 – 2022  
+CGPA: `8.86 / 10`
+
+
+### 🏢 Experience
+
+* <span style="color:#1E90FF;">AI Research Intern</span> | <span style="color:#276749;">IBM</span>  
+📍May 2025 – Aug 2025
+
+* <span style="color:#1E90FF;">Senior Data Engineer</span> | <span style="color:#276749;">LTIMindtree</span>  
+📍Jul 2022 – Jul 2023   
+
+* <span style="color:#1E90FF;">Software Engineer – AI Intern</span> | <span style="color:#276749;">Samasra Soft</span>  
+📍Jan 2022 – Apr 2022 
+
+* <span style="color:#1E90FF;">Machine Learning Intern</span> | <span style="color:#276749;">TestAing.com</span>  
+📍May 2021 – Jul 2021   
+
+
+
+
 

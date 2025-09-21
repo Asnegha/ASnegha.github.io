@@ -1,6 +1,6 @@
 baseURL = 'https://maverick.canhtran.me'
 languageCode = 'en-us'
-title = 'Maverick'
+title = 'Snegha/Home'
 theme = 'maverick'
 
 [permalinks]
