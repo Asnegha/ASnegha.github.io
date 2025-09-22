@@ -20,7 +20,7 @@ theme = 'maverick'
 
 [menu]
   [[menu.main]]
-    identifier = "pages"
+    identifier = "about"
     name = "Contact"
     url = "/about/"
     weight = "-110"
