@@ -8,6 +8,3 @@ I am currently working on **Parameter-Efficient Fine-Tuning (PEFT)** methods for
 
 Previously, I interned at **IBM Research**, where I worked on **Continual Learning** for NLP, exploring ways to make language models adapt to new tasks without forgetting previously learnt tasks. My work received the **Best Paper Award at the internal IBM IRIS Symposium**.
 
-Beyond my research, I actively contribute to open-source communities and was a participant in the Aya Expedition, where our team received the **Promising Research Project Award**. As a student from Tamil Nadu, I have also contributed to the creation of Tamil datasets for two NLP tasks.
-
-
