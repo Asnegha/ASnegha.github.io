@@ -7,4 +7,3 @@ I am a second-year Masters by Research student at the [Centre for Machine Intell
 I am currently working on **Parameter-Efficient Fine-Tuning (PEFT)** methods for cross-lingual transfer. Exploring ways to enhance multilingual model performance across diverse languages, including Indian languages as well as other major global low resource languages for challenging reasoning and generation tasks.
 
 Previously, I interned at **IBM Research**, where I worked on **Continual Learning** for NLP, exploring ways to make language models adapt to new tasks without forgetting previously learnt tasks. My work received the **Best Paper Award at the internal IBM IRIS Symposium**.
-
