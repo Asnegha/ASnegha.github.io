@@ -1,14 +1,14 @@
 {
   "version": "https://jsonfeed.org/version/1",
   "title": "Snegha/Home",
-  "home_page_url": "https://maverick.canhtran.me/",
-  "feed_url": "https://maverick.canhtran.me/feed.json",
+  "home_page_url": "http://localhost:1313/",
+  "feed_url": "http://localhost:1313/feed.json",
   "description": "A minimal hugo theme focus on content",
-  "favicon": "https://maverick.canhtran.me//assets/favicon.ico",
+  "favicon": "http://localhost:1313//assets/favicon.ico",
   "expired": false,
   "author": {
     "name": "Calvin Tran",
-    "url": "https://maverick.canhtran.me/"
+    "url": "http://localhost:1313/"
   },
   "items": [
     
@@ -21,12 +21,12 @@
       "summary": "",
       "content_text": "I’ve chosen this book as my read for the month, and I’ll be maintaining a daily reading journal here in this post to share my progress, and key takeaways.\n",
       "content_html": "\u003cp\u003eI’ve chosen this book as my read for the month, and I’ll be maintaining a daily reading journal here in this post to share my progress, and key takeaways.\u003c/p\u003e\n",
-      "url": "https://maverick.canhtran.me/posts/book1/",
+      "url": "http://localhost:1313/posts/book1/",
       "date_published": "23096-23-09T90:2323:00+00:00",
       "date_modified": "23096-23-09T90:2323:00+00:00",
       "author": {
         "name": "Calvin Tran",
-        "url": "https://maverick.canhtran.me/"
+        "url": "http://localhost:1313/"
       }
     }
     
